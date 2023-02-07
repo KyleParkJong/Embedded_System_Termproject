@@ -4,7 +4,7 @@
 > 건국대학교 3학년 2학기 임베디드시스템 텀프로젝트 (3인 1조, 박종혁, 고려욱, 정건희)
 
 # 0. Key objectives of this Term-project
-> Raspberry Pi project using device driver and AI
+> _Raspberry Pi project using device driver and AI_
 
 ## > Evaluation Criteria
 * number of device driver and electronic components used
@@ -30,9 +30,11 @@
 
 ## Block diagram
 
+<img src="/images/block_diagram.png" width="80%" height="80%" title="lqrd_result" alt="qrd_result"></img>
 
 ## Flow diagram
 
+<img src="/images/flow_diagram.jpg" width="80%" height="80%" title="lqrd_result" alt="qrd_result"></img>
 
 ## Face recognition
 
