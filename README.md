@@ -30,11 +30,11 @@
 
 ## Block diagram
 
-<img src="/images/block_diagram.png" width="80%" height="80%" title="lqrd_result" alt="qrd_result"></img>
+<img src="/images/block_diagram.png" width="100%" height="100%" title="lqrd_result" alt="qrd_result"></img>
 
 ## Flow diagram
 
-<img src="/images/flow_diagram.jpg" width="80%" height="80%" title="lqrd_result" alt="qrd_result"></img>
+<img src="/images/flow_diagram.jpg" width="60%" height="60%" title="lqrd_result" alt="qrd_result"></img>
 
 ## Face recognition
 
