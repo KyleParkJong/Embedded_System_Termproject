@@ -83,6 +83,8 @@
 
 <img src="/images/dot_matrix.png" width="40%" height="40%" title="lqrd_result" alt="qrd_result"></img>
 
+#### More details : /Presentation.pdf, /Project_report.pdf
+
 # 4. Things to be repaired
 * Recognize all the team members as Park Jonghyuk(pjh)
     + Have to use other API, not an object detection
