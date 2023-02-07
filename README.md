@@ -22,8 +22,8 @@
 # 2. Our idea
 ### A music recommendation system according to the user's exercise state.
 
-#### _NOTICE_
- + The implemented function in this project was only Face recognition AI model and device driver controlling dot matrix, push button
+### _NOTICE_
+ + The implemented function in this project was __"only"__ Face recognition AI model and device driver controlling dot matrix, push button
  + Socket communication, collecting user's exercise data and music recommendating AI model was implemented by __Jung Kun-hee(정건희)__ on his own project.
 
 # 3. Result
