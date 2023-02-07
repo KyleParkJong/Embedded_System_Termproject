@@ -85,9 +85,9 @@
 
 # 4. Things to be repaired
 * Recognize all the team members as Park Jonghyuk(pjh)
- + Have to use other API, not an object detection
- + There must be a class that represents a state of nothing.
- + Image labeling should be more accurate
+    + Have to use other API, not an object detection
+    + There must be a class that represents a state of nothing.
+    + Image labeling should be more accurate
 
 # 5. What I learned
 * Improved C programming, python skills 
